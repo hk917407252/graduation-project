@@ -1,0 +1,3 @@
+项目名：新冠疫情医患相似谈话的判定算法研究及实现
+采用模型：Bert预训练模型，本文所用模型为：chinese_L-12_H-768_A-12
+  模型下载地址：https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip
